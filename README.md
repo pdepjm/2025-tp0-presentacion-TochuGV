@@ -8,6 +8,10 @@
 
 🆕 **Primera vez** cursando esta materia
 
+📅 Tengo **19 años**
+
+🥳 Mi **cumpleaños** es el **5 de mayo**
+
 💼 **Trabajé** durante un **año y medio** en [**Yoizen**](https://yoizen.com/)
 
 💻 **Programo** hace **varios años**, acá está mi [**perfil de GitHub**](https://github.com/TochuGV) 😉

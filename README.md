@@ -1,5 +1,7 @@
 # Tobías Vallejos 🚀
 
+![Foto](/imagen.jpg)
+
 🎓 **Legajo:** 214.203-0
 
 📚 **Tercer año** en la **facultad**
